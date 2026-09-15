@@ -1,0 +1,11 @@
+metric,probability_agent,rl_agent
+games,1000,1000
+avg_shots,49.75,61.90
+std_shots,13.00,14.39
+median_shots,48.0,61.0
+min_shots,26,28
+max_shots,103,100
+avg_accuracy,36.17,29.08
+t_test_p_value,7.68e-80,
+mann_whitney_p,1.78e-87,
+cohens_d,0.886,
